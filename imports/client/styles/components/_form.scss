@@ -1,0 +1,9 @@
+.form {
+  display: flex;
+}
+
+.form__input {
+  border: 1px solid #e8e8e8;
+  flex-grow: 1;
+  padding: 0 1.3rem 0 1.3rem;
+}
